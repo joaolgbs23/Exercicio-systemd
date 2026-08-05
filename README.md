@@ -35,4 +35,4 @@ journalctl -u ssh: mostra o log de tudo que aconteceu com o serviço
 ## O que aprendi
 
 Aprendi a iniciar, reiniciar e parar um serviço, como fazer para subir junto ao boot do computador ou como fazer não iniciar
-Além de aprender e identificar o erro por log 
+Além de aprender e identificar erros por log 
