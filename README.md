@@ -8,7 +8,7 @@ Um serviço tem dois estados independentes: se está rodando agora e se sobe no 
 
 Caso o serviço esteja rodando naquele momento veremos em verde a tag (running) caso esteja desligado veremos (dead).
 Agora falando sobre o boot temos o estado disable ou enable que dizem se este serviço ira ligar junto da maquina, sendo que disable o operador terá que fazer o comando manualmente e o enabled o serviço iniciara dentro do boot.
-Para monitorarmos estas tarefas podemos utilizar o status que dá a situação em tempo real e o journalctl que mostra o log (histórico de ações daquele arquivo).
+Para monitorarmos estas tarefas podemos utilizar o status que dá a situação em tempo real e o journalctl que mostra o log (histórico de ações daquele serviço).
 
 ## Comandos usados
 
